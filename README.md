@@ -1,5 +1,5 @@
 # EnergyCord
-A cool client mod for Discord in your browser!
+A cool client mod for Discord Web Version
 
 ### **Currently in Beta Version**
 
