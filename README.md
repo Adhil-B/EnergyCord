@@ -13,6 +13,6 @@ Currently in Beta Version
 #7: Shows format language of discord code block.<br />
 #8: Pop out settings.<br />
 <br />
-Custom Theme and Background Coming Soon...<br />
 More Mods Coming Soon...<br />
+Custom Theme and Background Coming Soon...<br />
 Custom Mods also Coming Soon...<br />
