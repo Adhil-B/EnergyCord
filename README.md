@@ -1,5 +1,5 @@
 # EnergyCord
-A cool client mod for Discord Web Version
+A simple client mod for Discord Web Version
 
 ### **Currently in Beta Version**
 
