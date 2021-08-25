@@ -3,7 +3,7 @@ A cool client mod for Discord Web Version
 
 ### **Currently in Beta Version**
 
-## **In-Built MODS**<br />
+## **In-Built MODS:**<br />
 #1: Unlock all emojis and able to send it as link.<br />
 #2: Set custom rich presence very easily.<br />
 #3: Resizable channel list.<br />
