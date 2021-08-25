@@ -17,14 +17,14 @@ More Mods Coming Soon...<br />
 Custom Theme and Background Coming Soon...<br />
 Custom Mods also Coming Soon...<br />
 
-**Installation:**
+**Installation:** <br />
 
-Step 1: Download Tampermonkey Extension
+Step 1: Download Tampermonkey Extension<br />
 
-**Chrome:** https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related
-**Opera:** https://addons.opera.com/en/extensions/details/tampermonkey-beta/
-**FireFox:** https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+**Chrome:** https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related <br />
+**Opera:** https://addons.opera.com/en/extensions/details/tampermonkey-beta/ <br />
+**FireFox:** https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/ <br />
 
-Step 2: Go to https://github.com/Adhil-B/EnergyCord/raw/main/energycord.user.js
+Step 2: Go to https://github.com/Adhil-B/EnergyCord/raw/main/energycord.user.js <br />
 
 Step 3: Click Install
