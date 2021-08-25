@@ -1,9 +1,9 @@
 # EnergyCord
 A cool client mod for Discord in your browser!
 
-###**Currently in Beta Version**
+### **Currently in Beta Version**
 
-##**In-Built MODS**<br />
+## **In-Built MODS**<br />
 #1: Unlock all emojis and able to send it as link.<br />
 #2: Set custom rich presence very easily.<br />
 #3: Resizable channel list.<br />
@@ -17,7 +17,7 @@ More Mods Coming Soon...<br />
 Custom Theme and Background Coming Soon...<br />
 Custom Mods also Coming Soon...<br />
 
-##**Installation:** <br />
+## **Installation:** <br />
 
 Step 1: Download Tampermonkey Extension<br />
 
