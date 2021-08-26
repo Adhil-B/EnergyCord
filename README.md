@@ -2,6 +2,7 @@
 A simple client mod for Discord Web Version
 
 ### **Currently in Beta Version**
+### **TOS Safe**
 
 ## **In-Built MODS:**<br />
 #1: Unlock all emojis and able to send it as link.<br />
