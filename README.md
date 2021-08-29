@@ -6,13 +6,14 @@ A simple client mod for Discord Web Version
 
 ## **In-Built MODS:**<br />
 #1: Unlock all emojis and able to send it as link.<br />
-#2: Set custom rich presence very easily.<br />
+#2: Set custom playing status.<br />
 #3: Resizable channel list.<br />
 #4: Discord 5% more faster.<br />
 #5: Unlock Experimental Settings and Developer Option.<br />
 #6: Adds custom channel icons according to the channel name.<br />
 #7: Shows format language of discord code block.<br />
 #8: Pop out settings.<br />
+#9: Auto off reply mention.<br>
 <br />
 More Mods Coming Soon...<br />
 Custom Theme and Background Coming Soon...<br />
