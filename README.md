@@ -14,9 +14,10 @@ A simple client mod for Discord Web Version
 #7: Shows format language of discord code block.<br />
 #8: Pop out settings.<br />
 #9: Auto off reply mention.<br>
+#10: Custom background image.<br>
 <br />
 More Mods Coming Soon...<br />
-Custom Theme and Background Coming Soon...<br />
+Custom Theme Coming Soon...<br />
 Custom Mods also Coming Soon...<br />
 
 ## **Installation:** <br />
