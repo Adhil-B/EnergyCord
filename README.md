@@ -27,6 +27,7 @@ Step 1: Download Tampermonkey Extension<br />
 **Chrome:** https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related <br />
 **Opera:** https://addons.opera.com/en/extensions/details/tampermonkey-beta/ <br />
 **FireFox:** https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/ <br />
+**Edge:** https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd<br>
 
 Step 2: Go to https://github.com/Adhil-B/EnergyCord/raw/main/energycord.user.js <br />
 
