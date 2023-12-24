@@ -1,4 +1,4 @@
-# EnergyCord **[NO LONGER MAINTAINED]**
+# EnergyCord  [NO LONGER MAINTAINED]
 A simple client mod for Discord Web Version
 
 ### **TOS Safe**
