@@ -1,7 +1,8 @@
 # EnergyCord
 A simple client mod for Discord Web Version
 
-### **Currently in Beta Version**
+## **NO LONGER MAINTAINED**
+
 ### **TOS Safe**
 
 ## **In-Built MODS:**<br />
@@ -16,9 +17,9 @@ A simple client mod for Discord Web Version
 #9: Auto off reply mention.<br>
 #10: Custom background image.<br>
 <br />
-More Mods Coming Soon...<br />
-Custom Theme Coming Soon...<br />
-Custom Mods also Coming Soon...<br />
+~~More Mods Coming Soon...~~<br />
+~~Custom Theme Coming Soon...~~<br />
+~~Custom Mods also Coming Soon...~~<br />
 
 ## **Installation:** <br />
 
